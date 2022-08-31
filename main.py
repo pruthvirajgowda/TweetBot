@@ -6,8 +6,8 @@ from selenium.webdriver.common.keys import Keys
 from webdriver_manager.chrome import ChromeDriverManager
 
 SERVICE = Service(executable_path=ChromeDriverManager().install())
-TWITTER_ID = "pruthviraj__01"
-TWITTER_PASSWORD = "7259pruthvi9353"
+TWITTER_ID = "Twitter_ID"
+TWITTER_PASSWORD = "PASSWORD"
 
 
 class InternetSpeed:
